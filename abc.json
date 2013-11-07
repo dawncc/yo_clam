@@ -1,0 +1,18 @@
+{
+  "name": "yo_test",
+  "desc": "description of your app",
+  "type": "clam",
+  "port": "80",
+  "group": "dawncc",
+  "src": "true",
+  "version": "0.0.1",
+  "combohtml": "true",
+  "author": {
+    "name": "dawncc",
+    "email": "dawn.cc022@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.alibaba-inc.com/dawncc/yo_test"
+  }
+}
