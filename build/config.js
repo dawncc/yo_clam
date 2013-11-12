@@ -1,6 +1,12 @@
+/*
+combined files : 
+
+src/config
+
+*/
 
 /*
- * http://g.tbcdn.cn/dawncc/yo_test/@@version/config.js
+ * http://g.tbcdn.cn/dawncc/yo_test/0.0.1/config.js
  */
  (function(){
  	KISSY.config({
@@ -25,10 +31,11 @@
  			{
  				name: 'yo_test',
 					// 修改 abc.json 中的 version 字段来生成版本号
-					path: 'http://localhost/build/@@version/',
+					path: 'http://localhost/build/0.0.1/',
 					ignorePackageNameInUri: true
 				}
 				]
 			});
  	}
  })();
+
